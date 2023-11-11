@@ -1,6 +1,6 @@
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;BackEnd+Developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;BackEnd+Developer)
 </div>
 <p align="center">
 <a href="https://linkedin.com/in/maha-elshawardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2xdo" height="20" width="30" /></a>
