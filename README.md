@@ -27,4 +27,16 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/MahaElshawardy/MahaElshawardy/output/snake.svg" alt="Snake animation" />
 
+###
+
+<h3 align="left">🔥   My Status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MahaElshawardy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
